@@ -1,4 +1,4 @@
 export default{
-    STUDENT_INFORMATION:'/student-information',
-    ACADEMIC_PERFORMANCE: '/academic-performance',
+    STUDENT_PROFILE:'/student/student-profile',
+    ACADEMIC_PERFORMANCE: '/student/academic-performance',
 }

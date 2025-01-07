@@ -2,12 +2,12 @@
   <v-app>
     <v-main>
       <v-row no-gutters>
+        <Sidebar></Sidebar>
         <v-col>
-          <Sidebar />
-        </v-col>
-        <v-col>
-          <Navbar />
-          <RouterView></RouterView>
+          <Navbar></Navbar>
+          <v-container>
+           <RouterView></RouterView>
+          </v-container>
         </v-col>
       </v-row>
     </v-main>

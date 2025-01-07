@@ -3,9 +3,9 @@ import routePaths from "./routePaths";
 
 export const routeStudent = [
     {
-        path: routePaths.STUDENT_INFORMATION,
-        name: routeNames.STUDENT_INFORMATION,
-        component:()=>import('@/views/student/information/index.vue')
+        path: routePaths.STUDENT_PROFILE,
+        name: routeNames.STUDENT_PROFILE,
+        component:()=>import('@/views/student/information/ProfileStudent.vue')
     },
     {
         path:routePaths.ACADEMIC_PERFORMANCE,
