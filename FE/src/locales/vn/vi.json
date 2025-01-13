@@ -1,0 +1,26 @@
+{
+    "menu":{
+        "student-information":"Thông Tin Sinh Viên",
+        "academic-performance":"Kết Quả Học Tập",
+        "list-course":"Danh Sách Khóa Học",
+        "register-course":"Đăng ký Khóa Học mới"
+    },
+    "menu_user":{
+        "profile":"Thông tin",
+        "logout":"Đăng xuất"
+    },
+    "student_profile":{
+        "general-information":"Thông tin chung",
+        "parent-information":"Thông tin phụ huynh",
+        "full_name":"Họ và tên",
+        "date_of_birth":"Ngày sinh",
+        "student_code":"Mã sinh viên",
+        "phone_number":"Số điện thoại",
+        "email":"Email"
+        
+    },
+    "button":{
+        "return":"Quay lại",
+        "edit":"Sửa"
+    }
+}
