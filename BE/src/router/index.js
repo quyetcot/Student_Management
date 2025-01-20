@@ -1,5 +1,5 @@
+import StudentManageRouter from "./StudentManage";
+
 export default function routes(app) {
-    app.use('/', (req, res) => {
-        res.send('Hello world')
-    })
+    app.use('/api/v1/students-manage/', StudentManageRouter)
 }
