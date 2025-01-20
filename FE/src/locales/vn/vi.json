@@ -3,7 +3,8 @@
         "student-information":"Thông Tin Sinh Viên",
         "academic-performance":"Kết Quả Học Tập",
         "list-course":"Danh Sách Khóa Học",
-        "register-course":"Đăng ký Khóa Học mới"
+        "register-course":"Đăng ký Khóa Học mới",
+        "schedule-student":"Lịch học"
     },
     "menu_user":{
         "profile":"Thông tin",
